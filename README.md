@@ -1,1 +1,1 @@
-## HTML and CSS starter project for beginners
+## HTML and CSS starter project to teach beginners
